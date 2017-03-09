@@ -4,3 +4,5 @@
 
 ---
 
+* [react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker) 
+A camera roll view to show and select images.
